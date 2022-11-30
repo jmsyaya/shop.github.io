@@ -10,10 +10,10 @@
   {
     "id": 2,
     "src": "https://jmsyaya.github.io/fila.jpg?raw=true",
-    "alt": "휠라 운동화",
-    "pname": "스플라인 스크립트 운동화",
-    "color": "화이트",
-    "price": "43,000원"
+    "alt": "LEE",
+    "pname": "리 코듀라 1ST 트러커 RAW 데님 자켓",
+    "color": "Indigo Raw",
+    "price": "109,000원"
   },
   {
     "id": 3,
@@ -25,6 +25,35 @@
   },
   {
     "id": 4,
+    "src": "https://jmsyaya.github.io/tandy.jpg?raw=true",
+    "alt": "탠디 구두",
+    "pname": "탠디 세무 펌프스 블랙",
+    "color": "블랙",
+    "price": "166,300원"
+  }
+   {
+    "id": 5,
+    "src": "https://jmsyaya.github.io/tandy.jpg?raw=true",
+    "alt": "탠디 구두",
+    "pname": "탠디 세무 펌프스 블랙",
+    "color": "블랙",
+    "price": "166,300원"
+  } {
+    "id": 6,
+    "src": "https://jmsyaya.github.io/tandy.jpg?raw=true",
+    "alt": "탠디 구두",
+    "pname": "탠디 세무 펌프스 블랙",
+    "color": "블랙",
+    "price": "166,300원"
+  } {
+    "id": 7,
+    "src": "https://jmsyaya.github.io/tandy.jpg?raw=true",
+    "alt": "탠디 구두",
+    "pname": "탠디 세무 펌프스 블랙",
+    "color": "블랙",
+    "price": "166,300원"
+  } {
+    "id": 8,
     "src": "https://jmsyaya.github.io/tandy.jpg?raw=true",
     "alt": "탠디 구두",
     "pname": "탠디 세무 펌프스 블랙",
