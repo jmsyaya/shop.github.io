@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "src": "https://raw.githubusercontent.com/jmsyaya/shop.github.io/main/products/outer/codegraphy/cg1.jpg",    
+    "src": "https://jmsyaya.github.io/cg.jpg?raw=true",  
     "alt": "코드그라피",
     "pname": "코드그라피 RDS 유틸리티 덕다운 푸파 숏패딩",
     "color": "LIGHT GRAY",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "src": "https://jmsyaya.github.io/fila.jpg?raw=true",
+    "src": "https://jmsyaya.github.io/lee.jpg?raw=true",
     "alt": "LEE",
     "pname": "리 코듀라 1ST 트러커 RAW 데님 자켓",
     "color": "Indigo Raw",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "src": "https://github.com/jmsyaya/shop.github.io/blob/main/products/outer/lmood/lmo1.jpg?raw=true",
+    "src": "https://jmsyaya.github.io/lmo.jpg?raw=true",
     "alt": "엘무드",
     "pname": "엘무드 서킷 레이서 자켓",
     "color": "BLACK",
@@ -25,9 +25,9 @@
   },
   {
     "id": 4,
-    "src": "https://github.com/jmsyaya/shop.github.io/blob/main/products/outer/national/ng1.jpg?raw=true",
+    "src": "https://jmsyaya.github.io/nat.jpg?raw=true",
     "alt": " NATIONALGEOGRAPHIC",
-    "pname": " N214MDW930 타루가 남성 RDS 덕 다운 점퍼 ",
+    "pname": "내셔널지오그래픽 타루가 남성 RDS 덕 다운 점퍼 ",
     "color": "CARBON BLACK",
     "price": "359,000원"
   }
